@@ -1,6 +1,6 @@
 import Button from '@material-ui/core/Button';
 import { useForm } from "react-hook-form";
-import { makeStyles } from '@material-ui/core/Styles';
+import { makeStyles } from '@material-ui/core';
 
 
 const Contacto = () => {
