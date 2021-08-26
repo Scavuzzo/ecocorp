@@ -1,5 +1,5 @@
 const credencials = {
-    mapsKey: process.env.API_URL,
+    mapsKey: process.env.API_KEY,
 };
 
 export default credencials;
