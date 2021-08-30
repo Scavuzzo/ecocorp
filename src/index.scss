@@ -153,10 +153,11 @@ body {
   // top: 34px;
   ul {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
   }
   @include breakpoint(phone) {
     position: absolute;
+    justify-content: flex-end;
   }
     @include breakpoint(desktop-xl){
       right: 150px;
